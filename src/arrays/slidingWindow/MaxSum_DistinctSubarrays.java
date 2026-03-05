@@ -10,7 +10,6 @@ public class MaxSum_DistinctSubarrays {
         int[] arr= {1,5,4,2,9,9,9};
         int k = 3;
         System.out.println(maximumSubarraySum(arr, k));
-
     }
     static long maximumSubarraySum(int[] nums, int k) {
 
