@@ -12,20 +12,20 @@ public class LongestPalindromicSubstring {
     }
     static String longestPalindrome(String s) {
 
-        int start = 0;
-        int end = s.length()-1;
         String str = "";
 
-        while (start < end){
+        for (int i = 0; i < s.length(); i++) {
 
-            while (s.charAt(start) != s.charAt(end)){
-                start++;
-                end--;
+            int left = i;
+            int right = i;
+
+            while (left >= 0 && right <= s.length() && s.charAt(left) == s.charAt(right)){
+                left--;
+                right++;
             }
-
-
         }
-            return str;
+
+        return str;
     }
 }
 
