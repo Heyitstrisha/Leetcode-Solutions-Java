@@ -1,4 +1,4 @@
-package arrays.twoPointer;
+package string.string_easy;
 
 //https://leetcode.com/problems/valid-palindrome/description/
 public class ValidPalindrome {

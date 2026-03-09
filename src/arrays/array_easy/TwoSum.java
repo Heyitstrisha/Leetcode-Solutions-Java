@@ -1,4 +1,4 @@
-package arrays.twoPointer;
+package arrays.array_easy;
 
 import java.util.Arrays;
 import java.util.HashMap;

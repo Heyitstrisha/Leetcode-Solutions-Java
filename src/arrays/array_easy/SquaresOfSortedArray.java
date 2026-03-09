@@ -1,9 +1,8 @@
-package arrays.twoPointer;
+package arrays.array_easy;
 
 //https://leetcode.com/problems/squares-of-a-sorted-array/description/
 
 import java.util.Arrays;
-import java.util.stream.Stream;
 
 public class SquaresOfSortedArray {
     public static void main(String[] args) {

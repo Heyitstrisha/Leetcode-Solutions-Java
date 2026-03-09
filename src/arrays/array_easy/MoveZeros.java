@@ -1,6 +1,5 @@
-package arrays.twoPointer;
+package arrays.array_easy;
 
-import java.lang.reflect.Array;
 import java.util.Arrays;
 
 //https://leetcode.com/problems/move-zeroes/description/

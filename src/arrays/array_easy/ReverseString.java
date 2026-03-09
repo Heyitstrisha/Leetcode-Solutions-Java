@@ -1,4 +1,4 @@
-package arrays.twoPointer;
+package arrays.array_easy;
 
 //https://leetcode.com/problems/reverse-string/
 
